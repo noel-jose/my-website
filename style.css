@@ -135,8 +135,8 @@
 .projectButton {
   padding: 10px 20px;
   background-color: transparent;
-  border: 2px solid #555;
-  color: #555;
+  border: 2px solid #777;
+  color: #777;
   cursor: pointer;
   position: relative;
   overflow: hidden;
@@ -150,7 +150,7 @@
   position: absolute;
   top: 0;
   left: -100%;
-  background-color: #555;
+  background-color: #777;
   color: #222;
   transition: 1s all;
   display: flex;
@@ -183,7 +183,7 @@
 
 .dates {
   padding: 10px;
-  color: #555;
+  color: #777;
   font-size: 12px;
   display: flex;
   justify-content: space-between;
@@ -255,7 +255,7 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    color: #555;
+    color: #777;
     font-size: 30px;
     text-align: center;
   }
